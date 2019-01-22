@@ -11,7 +11,7 @@ I call my machine the ground because it's not the cloud
 ## About 
 I will use this webpage to show off code I write and direct people to worthwhile resources I use
 
-## What it takes to make a webpage like mine
+## What it takes to make a repository like mine
 ### Hardware
 
 1. A computer: I bet you have one if you're on here
@@ -20,4 +20,10 @@ I will use this webpage to show off code I write and direct people to worthwhile
 
 ### Software
 
+1. [GitHub](https://github.com/ "Make yours!") Account: for quick and easy repository access
+1. [Git GUI](https://gitforwindows.org/ "To Download"): for pushing files from your machine to the cloud
+1. [Notepad++](https://notepad-plus-plus.org/download/v7.6.2.html "Download Here") : an excellent and simple text editor, works great with code
 
+### Languages
+
+You don't have to know any languages to start a repository, but I reccomend everyone learn python and Java
