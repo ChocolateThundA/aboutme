@@ -33,7 +33,8 @@ The only language you will need is Markdown
 
 ## Contributors
 
-Jacob Briar Hughes, Bachelor Computer Science
+Jacob Briar Hughes, Bachelor Computer Science 
+
 Me and some friends in Machu Picchu
 ![vscode image](https://github.com/ChocolateThundA/jacob_briar_hughes/blob/master/Pals.JPG?raw=true "I'm the one in the back")
 
