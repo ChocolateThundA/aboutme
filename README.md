@@ -31,3 +31,15 @@ The only language you will need is Markdown
 - [Stack Ovverflow](https://stackoverflow.com/ "ask and answer") : get help online for syntax and algorythms in common languages
 - [NetBeans](https://netbeans.org/downloads/ "java compiler") : java is my favorite language to do practice problems in
 
+## Contributors
+
+Jacob Briar Hughes, Bachelor Computer Science
+
+
+
+
+
+
+
+
+
