@@ -5,7 +5,7 @@ I call my machine the ground because it's not the cloud
 -->
 ## Here is a link to my repository
 
-- [My Webpage](https://chocolatethunda.github.io/jacob_briar_hughes/ "My Introductory Webpage")
+- [My Webpage](https://chocolatethunda.github.io/jacob-briar-hughes/ "My Introductory Webpage")
 - [Page Source](https://github.com/ChocolateThundA/jacob-briar-hughes "My Pages Source Code")
 
 ## About 
