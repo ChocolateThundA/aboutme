@@ -27,7 +27,7 @@ The only language you will need is Markdown
 
 ## Handy Links
 
-- [Repl.it](https://repl.it/ "compilers"):an online compile for several languages
-- [Stack Ovverflow](https://stackoverflow.com/"ask and answer"):get help online for syntax and algorythms in common languages
-- [NetBeans](https://netbeans.org/downloads/ "java compiler"):java is my favorite language to do practice problems in
+- [Repl.it](https://repl.it/ "compilers") : an online compile for several languages
+- [Stack Ovverflow](https://stackoverflow.com/ "ask and answer") : get help online for syntax and algorythms in common languages
+- [NetBeans](https://netbeans.org/downloads/ "java compiler") : java is my favorite language to do practice problems in
 
