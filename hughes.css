@@ -1,5 +1,5 @@
 header{
-    padding-top: 10em;
+    padding-top: 20em;
     border-style: solid
 }   
   
@@ -9,7 +9,8 @@ h1{
 }
 section{
     color: red;
-    
+    border-style: groove;
+    border-color: blue;
 }
 
 body {
