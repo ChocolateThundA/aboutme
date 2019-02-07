@@ -1,9 +1,3 @@
-head{
-    padding-top: 40;
-    padding-bottom: 40;
-    border-style: solid
-}   
-  
 h1{
     color: blue;
     margin-left:  0.5em;
@@ -19,7 +13,13 @@ body {
 }
 
 article{
- border-style: solid;
+    
+width: 300px;
+border: 25px solid green;
+padding: 25px;
+margin: 25px;
+      
+border-style: solid;
 }
 
 
