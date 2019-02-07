@@ -7,9 +7,13 @@ h1{
     color: blue;
     margin-left:  0.5em;
 }
+section1{
+    color: red;
+    
+}
 
 body {
-    background-color: green;
+    background-color: white;
 }
 
 article{
