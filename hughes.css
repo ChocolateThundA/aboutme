@@ -1,11 +1,10 @@
-h1{
-    color: blue;
-    margin-left:  0.5em;
+header{
+    font: 2em sans-serif;
 }
-section{
+
+section1{
+
     color: red;
-    border-style: groove;
-    border-color: blue;
 }
 
 body {
