@@ -6,19 +6,16 @@
 <form id="form1"> 
 Name: <input name="name" type="text" size="20">
 </form>
-
-<button onclick="funky()">Deadass</button>
-
+<button onclick="funky()">button</button>
+<p id="outp">Output will appear here</p>
 
 
 <script>
 
 function funky() {
-    var x,y,name,a,b,answer;
-    x=document.getElementById("form1") ;
-    y=x.elements("name").value ;
-    document.write("Hello "+y+"<br>");
-    
+  var x = document.getElementById('name').value;
+  var y = Integer.ParseInt(x)
+  document.getElementById("outp").i
 
 }
 

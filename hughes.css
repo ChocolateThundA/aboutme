@@ -1,31 +1,72 @@
+.navbar{
+    margin: 0em;
+    padding: 0em;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: crimson;
+}
+
+.nav{
+    float: left;
+}
+.barlink{
+display: block;
+font: 1.1em;
+padding: 1em;
+text-align: center;
+}
+.barlink:hover{
+background-color: pink; 
+}
+
+.linkedin{
+    margin: 1rem;
+}
 header{
     font: 2em sans-serif;
     color: blue;
+    background-color: rgb(165, 81, 42);
     display: block;
-    width: 80%;
+    width: 70%;
     margin: auto;
+    padding: .5em;
+    text-align: center;
 
 }
+@media screen and (max-width: 1000px) {
+    section {
+      width: 100%;
+    }
+  }
+
+
 
 .s1{
-
 background-color: chartreuse;
 display: block;
-width: 30%;
-padding: 1em;
-margin: 2em;
+
 }
 
 .s2{
 display: block;
-width: 30%;
 }
-
 .s3{
     display: block;
-    width: 30%;
     color: white;
     background-color: black;
-
+}
+aside{
+    width: 33.33%;
+}
+.links{
+    list-style-type: none;
+}
+.linklink{
+    width: 2em;
+    height: 2em;
+}
+.bros{
+    float: left;
+    width: 33.33%;
 }
 
