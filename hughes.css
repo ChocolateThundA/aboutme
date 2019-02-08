@@ -1,24 +1,31 @@
 header{
     font: 2em sans-serif;
+    color: blue;
+    display: block;
+    width: 80%;
+    margin: auto;
+
 }
 
-section1{
+.s1{
 
-    color: red;
+background-color: chartreuse;
+display: block;
+width: 30%;
+padding: 1em;
+margin: 2em;
 }
 
-body {
-    background-color: white;
+.s2{
+display: block;
+width: 30%;
 }
 
-article{
-    
-width: 300px;
-border: 25px solid green;
-padding: 25px;
-margin: 25px;
-      
-border-style: solid;
-}
+.s3{
+    display: block;
+    width: 30%;
+    color: white;
+    background-color: black;
 
+}
 
