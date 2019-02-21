@@ -29,12 +29,45 @@
                     <a href="https://chocolatethunda.github.io/jacob-briar-hughes/contact.html">Contact Me</a>
                 </li>
                 <li class="barlink">
-                    <a href="https://chocolatethunda.github.io/jacob-briar-hughes/age.html">Learn Your Age</a>
+                    <a href="https://chocolatethunda.github.io/jacob-briar-hughes/age.html">Got A Box?</a>
                 </li>
 
             </ul>
         </div>
     </nav>
+<main>
+<h2>This will find the volume of a box for you</h2>
+<p>Enter the width of your box here
+    <input id = "width" type="number">
+</p>
+<p>Enter the length of your box right here
+    <input id="length" type="number">
+</p>
+<p>Guess what goes in this box ... height!
+    <input id="height" type="number">
+</p>
+
+
+<button id="clickit">Find Volume</button> 
+<p id="ret"></p>
+
+</main>
+<script>
+
+    function trips(x, y, z) {
+        return x * y * z
+    }
+    document.getElementById('clickit').addEventListener('click', function () {
+        const x = parseInt(document.getElementById('width').value)
+        const y = parseInt(document.getElementById('length').value)
+        const z = parseInt(document.getElementById('height').value)
+        const ans =  'The volume of your box is ' + trips(x,y,z) +'.'
+        document.getElementById('ret').innerHTML = ans
+    })
+
+</script>
+
+
 
 </body>
 </html>
