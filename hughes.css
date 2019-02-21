@@ -20,7 +20,7 @@ background-color: pink;
 }
 
 .linkedin{
-    margin: 1rem;
+    margin: 1em;
 }
 header{
     font: 2em sans-serif;
@@ -65,8 +65,20 @@ aside{
     width: 2em;
     height: 2em;
 }
-.bros{
-    float: left;
-    width: 33.33%;
+#bros{
+    max-height: 20em;
+    margin: auto;
 }
-
+#aside{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.linksHere{
+    padding: 1em;
+    }
+#linkrow{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
